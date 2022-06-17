@@ -1,6 +1,0 @@
-{
-  "parent": "item/generated",
-  "textures": {
-    "layer0": "opium:items/cooked_cannabis_item"
-  }
-}

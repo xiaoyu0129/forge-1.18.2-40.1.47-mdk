@@ -1,9 +1,0 @@
-{
-    "type": "minecraft:smelting",
-    "ingredient": {
-        "item": "opium:opium_seed_item"
-    },
-    "result": "opium:opium_item",
-    "experience": 100,
-    "cookingtime": 100
-}
